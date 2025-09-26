@@ -1,0 +1,1 @@
+docker run -p 3000:3000 -v /my-app/node_modules -v $(pwd):/my-app app/front
